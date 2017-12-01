@@ -1,0 +1,12 @@
+# Analysis of Exception Handling in Java
+
+Please write a paragraph of analysis for each of the four different exception
+handling circumstances evident in the InvestigateExceptions program.
+
+This is the paragraph about the first exception.
+
+This is the paragraph about the second exception.
+
+This is the paragraph about the third exception.
+
+This is the paragraph about the fourth exception.
